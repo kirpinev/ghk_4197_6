@@ -65,7 +65,7 @@ const product = style({
 const status = style({
   position: "absolute",
   right: "25px",
-  top: "-17px",
+  top: "-10px",
 });
 
 const productTitle = style({
